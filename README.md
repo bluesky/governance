@@ -1,4 +1,4 @@
-# Governance
+# Bluesky Governance
 
 These documents articulate the governance of the Bluesky Project open-source
 collaboration.
