@@ -4,7 +4,7 @@ This is the organizational charter for the Bluesky Organization (the "Organizati
 
 ## 1. Mission
 
-Build openly-licensed software for data acquisition, management, and analysis.
+Build open-source software with an [OSI-compatible license](https://opensource.org/licenses) for data acquisition, management, and analysis.
 
 ## 2. Project Advisory Board
 
