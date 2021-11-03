@@ -4,7 +4,7 @@ This Project welcomes contributions, suggestions, and feedback. All contribution
 
 To become a Maintainer on this repository, begin by making contributions. When you become established as an active and trusted contributor with expertise in some aspects of the project, you may ask or be invited to become a Maintainer. Maintainer are added by consensus of existing Maintainers on this project.
 
-The Project abides by the Organization's code of conduct and trademark policy.
+The Project abides by the Organization's code of conduct.
 
 ---
 Part of MVG-0.1-beta.
