@@ -10,11 +10,13 @@ This project may include the following roles. Additional roles may be adopted an
 
 **1.2. Contributors**. Contributors are those that have made contributions to the Project.
 
+**1.3 Release Manager**. The Release Manager is a Maintainer with additional responsibility: ensuring that the project is regularly released, that any bit rot (e.g. breaking changes in dependencies) is addressed, and that contributions receive review as promptly as resources allow.
+
 ## 2. Decisions.
 
 **2.1. Consensus-Based Decision Making**. Projects make decisions through consensus of the Maintainers. While explicit agreement of all Maintainers is preferred, it is not required for consensus. Rather, the Maintainers will determine consensus based on their good faith consideration of a number of factors, including the dominant view of the Contributors and nature of support and objections. The Maintainers will document evidence of consensus in accordance with these requirements.
 
-**2.2. Appeal Process**. Decisions may be appealed by opening an issue and that appeal will be considered by the Maintainers in good faith, who will respond in writing within a reasonable time. If the Maintainers deny the appeal, the appeal my be brought before the Organization Steering Committee, who will also respond in writing in a reasonable time.
+**2.2. Appeal Process**. Decisions may be appealed by opening an issue and that appeal will be considered by the Maintainers in good faith, who will respond in writing within a reasonable time. If the Maintainers deny the appeal, the appeal my be brought before the Organization Technical Steering Committee, who will also respond in writing in a reasonable time.
 
 ## 3. How We Work.
 
@@ -38,7 +40,7 @@ Any names, trademarks, logos, or goodwill developed by and associated with the P
 
 ## 6. Amendments.
 
-Amendments to this governance policy may be made by affirmative vote of 2/3 of all Maintainers, with approval by the Organization's Steering Committee.
+Amendments to this governance policy may be made by affirmative vote of 2/3 of all Maintainers, with approval by the Organization's Technical Steering Committee.
 
 ---
 Part of MVG-0.1-beta.
