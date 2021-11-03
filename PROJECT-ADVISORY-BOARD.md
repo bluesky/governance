@@ -8,5 +8,4 @@ This document lists the members of the Organization's Project Steering Committee
 |  ... | ... | ... |
 
 ---
-Part of MVG-0.1-beta.
-Made with love by GitHub. Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
+Adapted from [GitHub's MVG-0.1-beta](https://github.com/github/MVG). Licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.

@@ -8,5 +8,4 @@ This document lists the Maintainers of the Project. Maintainers may be added onc
 | Maintainer 2 | | |
 
 ---
-Part of MVG-0.1-beta.
-Made with love by GitHub. Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
+Adapted from [GitHub's MVG-0.1-beta](https://github.com/github/MVG). Licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.

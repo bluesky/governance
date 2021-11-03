@@ -64,5 +64,4 @@ In order to be eligible to be a Organization project, a project must:
 Amendments to this charter, the antitrust policy or the code of conduct may only be made with at least a 3/4 affirmative vote of the Project Advisory Board.
 
 ---
-Part of MVG-0.1-beta.
-Made with love by GitHub. Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
+Adapted from [GitHub's MVG-0.1-beta](https://github.com/github/MVG). Licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.
