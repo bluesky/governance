@@ -10,38 +10,31 @@ Build open-source software with an [OSI-compatible license](https://opensource.o
 
 **2.1 Purpose**. The Project Advisory Board will be responsible for all policy oversight and for providing advice and concurrence on big-picture priorities, in coordination with the Technical Steering Committee.
 
-**2.2 Composition**. The Project Advisory Board voting members are listed in the PROJECT-ADVISORY-BOARD.md.
-Voting members may be added or removed by no less than 3/4 affirmative vote of the Project Advisory Board.
-The composition of the Project Advisory Board should roughly reflect the resource committed by institutions
-that contribute to Bluesky repositories, as determined by the Project Advisory Board members.
-Contributions include code, documentation, bug reports, and community support.
-The Project Advisory Board will appoint a Chair responsible for organizing Project Advisory Board activity.
+**2.2 Composition**. The Project Advisory Board voting members are listed in the PROJECT-ADVISORY-BOARD.md file in this repostiory.  Voting members may be added or removed by no less than 3/4 affirmative vote of the Project Advisory Board.  The composition of the Project Advisory Board should roughly reflect the resource committed by institutions that contribute to Bluesky repositories, as determined by the Project Advisory Board members.  Contributions include code, documentation, bug reports, and community support.  The Project Advisory Board will appoint a Chair responsible for organizing Project Advisory Board activity.
 
 ## 3. Technical Steering Committee
 
 **3.1 Purpose**. The Technical Steering Committee will be responsible for all technical oversight and project approval and oversight for the Organization.
 
-**3.2 Composition**. The Technical Steering Committee voting members are listed in the TECHNICAL-STEERING-COMMITTEE.md file in this repository.
-Voting members may be added or removed by no less than 3/4 affirmative vote of the Technical Steering Committee.
-The Technical Steering Committee will appoint a Chair responsible for organizing Technical Steering Committee activity.
+**3.2 Composition**. The Technical Steering Committee voting members are listed in the TECHNICAL-STEERING-COMMITTEE.md file in this repository.  Voting members may be added or removed by no less than 3/4 affirmative vote of the Technical Steering Committee.  Members of the Technical Steering Committee should have significant experience making contributions to Organization projects. Members should not be added based on only _general_ technical experience or the backing of a participating institution. The Technical Steering Committee will appoint a Chair responsible for organizing Technical Steering Committee activity.
 
 ## 4. Voting
 
-**4.1. Decision Making**. The Technical Steering Committee will strive for all decisions to be made by consensus. While explicit agreement of the entire Technical Steering Committee is preferred, it is not required for consensus. Rather, the Technical Steering Committee will determine consensus based on their good faith consideration of a number of factors, including the dominant view of the Technical Steering Committee and nature of support and objections. (The Internet Engineering Task Force, which operates on this principle, has published a useful document with examples, ["On Consensus and Humming in the IETF"](https://tools.ietf.org/id/draft-resnick-on-consensus-01.html).) The Technical Steering Committee will document evidence of consensus in accordance with these requirements. If consensus cannot be reached, the Technical Steering Committee will make the decision by a vote.
+**4.1. Decision Making**. The Project Advisory Board and the Technical Steering Committee follow the same decision-making process. The Board or Committee, respectively, (the "Governing Body") will strive for all decisions to be made by consensus. While explicit agreement of the entire Governing Body is preferred, it is not required for consensus. Rather, the Governing Body will determine consensus based on their good faith consideration of a number of factors, including the dominant view of the Governing Body and nature of support and objections. (The Internet Engineering Task Force, which operates on this principle, has published a useful document with examples, ["On Consensus and Humming in the IETF"](https://tools.ietf.org/id/draft-resnick-on-consensus-01.html).) The Governing Body will document evidence of consensus in accordance with these requirements. If consensus cannot be reached, the Governing Body will make the decision by a vote.
 
-**4.2. Voting**. The Technical Steering Committee Chair will call a vote with reasonable notice to the Technical Steering Committee, setting out a discussion period and a separate voting period. Any discussion may be conducted in person or electronically by text, voice, or video. The discussion will be open to the public. In any vote, each voting representative will have one vote. Except as specifically noted elsewhere in this Charter, decisions by vote require a simple majority vote of all voting members.
+**4.2. Voting**. The Governing Body's Chair will call a vote with reasonable notice to the Governing Body, setting out a discussion period and a separate voting period. Any discussion may be conducted in person or electronically by text, voice, or video. The discussion will be open to the public. In any vote, each voting representative will have one vote. Except as specifically noted elsewhere in this Charter, decisions by vote require a simple majority vote of all voting members.
 
 ## 5. Termination of Membership
 
-In addition to the method set out in section 2.2, the membership of a Technical Steering Committee member will terminate if any of the following occur:
+In addition to the method set out in sections 2.2 and 3.2, the membership of a Governing Body member will terminate if any of the following occur:
 
-**5.1 Resignation**. Written notice of resignation to the Technical Steering Committee.
+**5.1 Resignation**. Written notice of resignation to the Governing Body.
 
-**5.2 Unreachable Member**. If a member is unresponsive at its listed handle for more than three months the Technical Steering Committee may vote to remove the member.
+**5.2 Unreachable Member**. If a member is unresponsive at its listed handle for more than three months the Governing Body may vote to remove the member.
 
 ## 6. Antitrust Policy
 
-The Technical Steering Committee is bound by the Organization's antitrust policy.
+The Project Advisory Board and the Technical Steering Committee are each bound by the Organization's antitrust policy.
 
 ## 7. No Confidentiality
 
@@ -52,7 +45,7 @@ Information disclosed in connection with any of the Organization's activities, i
 In order to be eligible to be a Organization project, a project must:
 
 * Be approved by the Technical Steering Committee.
-* Agree to follow the guidance and direction of the Technical Steering Committee.
+* Agree to follow the guidance and direction of the Project Advisory Board and the Technical Steering Committee.
 * Use only the following outbound licenses or agreements unless otherwise approved:
   - For code, a license on the Open Source Initiative's list of [Popular Licenses](https://opensource.org/licenses).
   - For data, a license on the Open Knowledge Foundation's list of [Recommended Conformant Licenses](http://opendefinition.org/licenses/).
