@@ -24,6 +24,25 @@ Contributors can follow to become more active and influential in the project.
 This document means to formalize that Bluesky is a multi-facility,
 community-driven project.
 
+## Summary of How Contributions are Managed
+
+_For details, start with [CHARTER.md](./CHARTER.md)._
+
+* Each respository has a written list of Maintainers that manage contributions
+  to the repository. The Maintainers have lattitude to define the process that
+  works best for each repository (e.g. how much code review).
+  The Maintainers operate by
+  [consensus](https://tools.ietf.org/id/draft-resnick-on-consensus-01.html).
+  If they are unable to reach consensus, they must escalate to a Technical
+  Steering Committee. (They _don't_ resolve conflicts by vote.)
+* A Technical Steering Committee---composed of a written list of experienced
+  Contributors with specific technical knowledge about Bluesky---attempts to
+  resolve questions by consensus, but if consensus fails they can vote.
+* The Project Advisory Board---composed of management-level stakeholders, often
+  the managers of Technical Steering Committee members---oversees project
+  policy and provides advice and concurrence on big-picture development
+  priorities.
+
 ## Status
 
 These documents are in active development. They are being adapted from
