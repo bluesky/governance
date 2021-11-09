@@ -52,5 +52,6 @@ We are in Step 2 of this process:
 2. Collect input and/or buy-in from existing Collaborators via conversations,
    GitHub Issues on this repository, and the Nikea Slack.
 3. Make any necessary modifications.
-4. Sign.
+4. Set initial membership of Technical Steering Committee, Project Advisory
+   Board, and (for each repo) Maintainers.
 
