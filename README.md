@@ -33,8 +33,8 @@ _For details, start with [CHARTER.md](./CHARTER.md)._
   works best for each repository (e.g. how much code review).
   The Maintainers operate by
   [consensus](https://tools.ietf.org/id/draft-resnick-on-consensus-01.html).
-  If they are unable to reach consensus, they must escalate to a Technical
-  Steering Committee. (They _don't_ resolve conflicts by vote.)
+  If they are unable to reach consensus, they must escalate to the Technical
+  Steering Committee. They _don't_ resolve conflicts by vote.
 * A Technical Steering Committee---composed of a written list of experienced
   Contributors with specific technical knowledge about Bluesky---attempts to
   resolve questions by consensus, but if consensus fails they can vote.
