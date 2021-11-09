@@ -25,5 +25,15 @@ early stage, the Maintianers have complete discretion about what
 if any review is needed. Changes may be pushed directly to the `main`
 branch; pull request may be self-merged.
 
+
+## Non-code repositories
+
+Non-code repositories should select a workflow repository-by-repository basis that matches
+the intended usage.
+
+For example, changes to this repository will require approval of the Adviory Commitee.  
+On the other exterme we push to the default branch of the documentation hosting repository 
+via automated tools on CI.
+
 ---
 Licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.
