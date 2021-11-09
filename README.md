@@ -24,7 +24,7 @@ Contributors can follow to become more active and influential in the project.
 This document means to formalize that Bluesky is a multi-facility,
 community-driven project.
 
-## Summary of How Contributions are Managed
+## Summary
 
 _For details, start with [CHARTER.md](./CHARTER.md)._
 
