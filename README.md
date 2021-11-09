@@ -28,7 +28,7 @@ community-driven project.
 
 _For details, start with [CHARTER.md](./CHARTER.md)._
 
-* Each repository has a written list of Maintainers that manage contributions
+* Each repository has a written list of Maintainers who manage contributions
   to the repository. The Maintainers have lattitude to define the process that
   works best for each repository (e.g. how much code review).
   The Maintainers operate by
