@@ -14,7 +14,7 @@ Build open-source software with an [OSI-compatible license](https://opensource.o
 
 ## 3. Technical Steering Committee
 
-**3.1 Purpose**. The Technical Steering Committee will be responsible for all technical oversight and project approval and oversight for the Organization.
+**3.1 Purpose**. The Technical Steering Committee will be responsible for all technical oversight and project approval and oversight for the Organization. Members of the Technical Steering Committee will be granted the "Owner" role in the Bluesky GitHub organization.
 
 **3.2 Composition**. The Technical Steering Committee voting members are listed in the TECHNICAL-STEERING-COMMITTEE.md file in this repository.  Voting members may be added or removed by no less than 3/4 affirmative vote of the Technical Steering Committee.  Members of the Technical Steering Committee should have significant experience making contributions to Organization projects. Members should not be added based on only _general_ technical experience or the backing of a participating institution. The Technical Steering Committee will appoint a Chair responsible for organizing Technical Steering Committee activity.
 
