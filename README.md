@@ -38,10 +38,9 @@ _For details, start with [CHARTER.md](./CHARTER.md)._
 * A Technical Steering Committee---composed of a written list of experienced
   Contributors with specific technical knowledge about Bluesky---attempts to
   resolve questions by consensus, but if consensus fails they can vote.
-* The Project Advisory Board---composed of management-level stakeholders, often
-  the managers of Technical Steering Committee members---oversees project
-  policy and provides advice and concurrence on big-picture development
-  priorities.
+* The Project Advisory Board---composed of management-level stakeholders
+  ---oversees project policy and provides advice and concurrence on big-picture
+  development priorities.
 
 ## Status
 
