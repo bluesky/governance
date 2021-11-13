@@ -15,13 +15,13 @@ Broadly, repositories should use one of the following workflows:
   significant backward-incompatible changes---should be left open for at least
   one week to allow time for comment, and review should be solicited from a
   broad range of Maintainers or Contributors who may have useful input on the
-  impact of the change. It is to up a repositiory's Maintainers to judge how much
+  impact of the change. It is up to a repositiory's Maintainers to judge how much
   review is needed for a given Pull Request.
 
 ## Experimental
 
 Bluesky projects are typically public from the very first commit. In this
-early stage, the Maintianers have complete discretion about what
+early stage, the Maintainers have complete discretion about what
 if any review is needed. Changes may be pushed directly to the `main`
 branch; pull request may be self-merged.
 
