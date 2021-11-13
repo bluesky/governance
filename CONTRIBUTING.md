@@ -31,7 +31,7 @@ branch; pull request may be self-merged.
 Non-code repositories should select a workflow repository-by-repository basis that matches
 the intended usage.
 
-For example, changes to this repository will require approval of the Advisory Committee.  
+For example, changes to this repository will require approval of the Project Advisory Board.  
 On the other extreme we push to the default branch of the documentation hosting repository 
 via automated tools on CI.
 
