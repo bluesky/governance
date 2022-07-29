@@ -54,7 +54,7 @@ In order to be eligible to be a Organization project, a project must:
 
 ## 9. Amendments
 
-Amendments to this charter, the antitrust policy or the code of conduct may only be made with at least a 3/4 affirmative vote of the Project Advisory Board.
+Amendments to this charter, the antitrust policy or the code of conduct may only be made with at least a 2/3 affirmative vote of the Project Advisory Board.
 
 ---
 Adapted from [GitHub's MVG-0.1-beta](https://github.com/github/MVG). Licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.
