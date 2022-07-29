@@ -46,7 +46,7 @@ _For details, start with [CHARTER.md](./CHARTER.md)._
 
 These documents are in active development. They are being adapted from
 [GitHub's Minimum Viable Governance](https://github.com/github/MVG).
-We are in Step 2 of this process:
+We are in Step 4 of this process:
 
 1. Develop draft at NSLS-II.
 2. Collect input and/or buy-in from existing Collaborators via conversations,
