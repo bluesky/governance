@@ -13,7 +13,7 @@ This document lists the members of the Organization's Technical Steering Committ
 | Zachary Lentz | @ZLLentz | SLAC National Accelerator Laboratory (LCLS)
 | Dylan MacReynolds | @DylanMcReynolds | Lawrence Berkeley National Laboratory (ALS)
 | Maksim Rakitin  | @mrakitin | Brookhaven National Laboratory (NSLS-II)
-| Will Smith | _ | Helmholtz-Zentrum Berlin (BESSY-II)
+| Will Smith | @whs92 | Helmholtz-Zentrum Berlin (BESSY-II)
 
 ---
 Adapted from [GitHub's MVG-0.1-beta](https://github.com/github/MVG). Licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.
