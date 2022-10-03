@@ -12,7 +12,8 @@ This document lists the members of the Organization's Technical Steering Committ
 | Ken Lauer | @klauer | SLAC National Accelerator Laboratory (LCLS)
 | Zachary Lentz | @ZLLentz | SLAC National Accelerator Laboratory (LCLS)
 | Dylan MacReynolds | @DylanMcReynolds | Lawrence Berkeley National Laboratory (ALS)
-| Maksim Rakitin  | @mrakitin | Brookhaven National Laboratory (NSLS-II)
+| Maksim Rakitin | @mrakitin | Brookhaven National Laboratory (NSLS-II)
+| Clinton Roy | @clintonroy | Australian Synchrotron
 | Will Smith | @whs92 | Helmholtz-Zentrum Berlin (BESSY-II)
 
 ---
