@@ -9,7 +9,7 @@ This document lists the members of the Organization's Project Advisory Board. Vo
 | Alex Hexemer | ahexemer@lbl.gov | | Lawrence Berkeley National Laboratory (ALS) |
 | Paul Martin | martinp@ansto.gov.au | | ANSTO (Australian Synchrotron) |
 | Alec Sandy | asandy@anl.gov | | Argonne National Laboratory (APS) |
-| Nicholas Schwarz | nschwarz@anl.gov | | Argonne National Laboratory (APS) |
+| Nicholas Schwarz | nschwarz@anl.gov | @nschwarz-aps | Argonne National Laboratory (APS) |
 | Jana Thayer | jana@slac.stanford.edu | | SLAC National Accelerator Laboratory (LCLS) | 
 | TBC | ???@slac.stanford.edu | | SLAC National Accelerator Laboratory (LCLS) | 
 | Stuart Wilkins | swilkins@bnl.gov | @stuwilkins | 	Brookhaven National Laboratory (NSLS-II) |
