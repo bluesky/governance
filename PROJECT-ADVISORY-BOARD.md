@@ -5,6 +5,7 @@ This document lists the members of the Organization's Project Advisory Board. Vo
 | **NAME** | **Email** | **GitHub Username** | **Affiliated Organization** |
 | --- | --- | --- | --- |
 | Stuart Campbell (Chair) | scampbell@bnl.gov | @stuartcampbell | 	Brookhaven National Laboratory (NSLS-II) |
+| Joe Handford | joe.handford@diamond.ac.uk | | Diamond Light Source |
 | Mark Heron | mark.heron@diamond.ac.uk | | Diamond Light Source |
 | Alex Hexemer | ahexemer@lbl.gov | | Lawrence Berkeley National Laboratory (ALS) |
 | Paul Martin | martinp@ansto.gov.au | | ANSTO (Australian Synchrotron) |
