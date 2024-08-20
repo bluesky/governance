@@ -17,7 +17,7 @@ you have authority to bind that organization to these policies.
 | Callum Forrester | [@callumforrester](https://github.com/callumforrester) | Diamond Light Source
 | Pete Jemian | [@prjemian](https://github.com/prjemian) | Argonne National Laboratory (APS)
 | Zachary Lentz | [@ZLLentz](https://github.com/ZLLentz) | SLAC National Accelerator Laboratory (LCLS)
-| Dylan MacReynolds | [@DylanMcReynolds](https://github.com/DylanMcReynolds) | Lawrence Berkeley National Laboratory (ALS)
+| Dylan McReynolds | [@DylanMcReynolds](https://github.com/DylanMcReynolds) | Lawrence Berkeley National Laboratory (ALS)
 | Max Rakitin | [@mrakitin](https://github.com/mrakitin) | Brookhaven National Laboratory (NSLS-II)
 | Clinton Roy | [@clintonroy](https://github.com/clintonroy) | Australian Synchrotron
 | Will Smith | [@whs92](https://github.com/whs92) | Helmholtz-Zentrum Berlin (BESSY-II)
