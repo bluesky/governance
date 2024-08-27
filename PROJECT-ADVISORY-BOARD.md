@@ -4,6 +4,7 @@ This document lists the members of the Organization's Project Advisory Board. Vo
 
 | **NAME** | **Email** | **GitHub Username** | **Affiliated Organization** |
 | --- | --- | --- | --- |
+| Alun Ashton | alun.ashton@psi.ch | | Paul Scherrer Institut (PSI) |
 | Stuart Campbell (Chair) | scampbell@bnl.gov | @stuartcampbell | 	Brookhaven National Laboratory (NSLS-II) |
 | Joe Handford | joe.handford@diamond.ac.uk | | Diamond Light Source |
 | Mark Heron | mark.heron@diamond.ac.uk | | Diamond Light Source |
