@@ -14,7 +14,7 @@ you have authority to bind that organization to these policies.
 | Daniel Allan (Chair) | [@danielballan](https://github.com/danielballan) | Brookhaven National Laboratory (NSLS-II)
 | Thomas Caswell | [@tacaswell](https://github.com/tacaswell) | Brookhaven National Laboratory (NSLS-II)
 | Tom Cobb | [@coretl](https://github.com/coretl) | Diamond Light Source
-| Callum Forrester | [@callumforrester](https://github.com/callumforrester) | Diamond Light Source
+| Abi Emery | [@abbiemery](https://github.com/abbiemery) | Diamond Light Source
 | Pete Jemian | [@prjemian](https://github.com/prjemian) | Argonne National Laboratory (APS)
 | Zachary Lentz | [@ZLLentz](https://github.com/ZLLentz) | SLAC National Accelerator Laboratory (LCLS)
 | Dylan McReynolds | [@DylanMcReynolds](https://github.com/DylanMcReynolds) | Lawrence Berkeley National Laboratory (ALS)
