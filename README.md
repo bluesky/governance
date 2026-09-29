@@ -44,14 +44,5 @@ _For details, start with [CHARTER.md](./CHARTER.md)._
 
 ## Status
 
-These documents are in active development. They are being adapted from
+These documents are now in effect. They were adapted from
 [GitHub's Minimum Viable Governance](https://github.com/github/MVG).
-We are in Step 4 of this process:
-
-1. Develop draft at NSLS-II.
-2. Collect input and/or buy-in from existing Collaborators via conversations,
-   GitHub Issues on this repository, and the Nikea Slack.
-3. Make any necessary modifications.
-4. Set initial membership of Technical Steering Committee, Project Advisory
-   Board, and (for each repo) Maintainers.
-
