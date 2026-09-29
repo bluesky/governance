@@ -26,6 +26,8 @@ you have authority to bind that organization to these policies.
 
 ## Former Members
 
+| **NAME** | **GitHub Handle** | **Affiliated Organization** |
+| --- | --- | --- |
 | Callum Forrester | [@callumforrester](https://github.com/callumforrester) | Diamond Light Source
 | Ken Lauer | [@klauer](https://github.com/klauer) | SLAC National Accelerator Laboratory (LCLS)
 | Robert Tang-Kong| [@tangkong](https://github.com/tangkong) | SLAC National Accelerator Laboratory (LCLS)
