@@ -9,6 +9,8 @@ If you are serving on the Technical Steering Committee because of your
 affiliation with another organization (designated below), you represent that
 you have authority to bind that organization to these policies.
 
+## Current Members
+
 | **NAME** | **GitHub Handle** | **Affiliated Organization** |
 | --- | --- | --- |
 | Daniel Allan (Chair) | [@danielballan](https://github.com/danielballan) | Brookhaven National Laboratory (NSLS-II)
@@ -21,6 +23,13 @@ you have authority to bind that organization to these policies.
 | Max Rakitin | [@mrakitin](https://github.com/mrakitin) | Brookhaven National Laboratory (NSLS-II)
 | Clinton Roy | [@clintonroy](https://github.com/clintonroy) | Australian Synchrotron
 | Will Smith | [@whs92](https://github.com/whs92) | Helmholtz-Zentrum Berlin (BESSY-II)
+
+## Former Members
+
+| **NAME** | **GitHub Handle** | **Affiliated Organization** |
+| --- | --- | --- |
+| Callum Forrester | [@callumforrester](https://github.com/callumforrester) | Diamond Light Source
+| Ken Lauer | [@klauer](https://github.com/klauer) | SLAC National Accelerator Laboratory (LCLS)
 | Robert Tang-Kong| [@tangkong](https://github.com/tangkong) | SLAC National Accelerator Laboratory (LCLS)
 
 ---
