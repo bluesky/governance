@@ -23,6 +23,7 @@ you have authority to bind that organization to these policies.
 | Max Rakitin | [@mrakitin](https://github.com/mrakitin) | Brookhaven National Laboratory (NSLS-II)
 | Clinton Roy | [@clintonroy](https://github.com/clintonroy) | Australian Synchrotron
 | Will Smith | [@whs92](https://github.com/whs92) | Helmholtz-Zentrum Berlin (BESSY-II)
+| Igor Ferreira Torquato | [@Igort4](https://github.com/Igort4) | Brazilian Synchrotron Light Laboratory (Sirius)
 
 ## Former Members
 
